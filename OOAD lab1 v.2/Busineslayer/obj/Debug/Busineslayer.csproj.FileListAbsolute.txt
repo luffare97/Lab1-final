@@ -1,0 +1,5 @@
+C:\Users\danie\source\repos\OOAD lab1 v.2\Busineslayer\bin\Debug\Busineslayer.dll
+C:\Users\danie\source\repos\OOAD lab1 v.2\Busineslayer\bin\Debug\Busineslayer.pdb
+C:\Users\danie\source\repos\OOAD lab1 v.2\Busineslayer\obj\Debug\Busineslayer.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\OOAD lab1 v.2\Busineslayer\obj\Debug\Busineslayer.dll
+C:\Users\danie\source\repos\OOAD lab1 v.2\Busineslayer\obj\Debug\Busineslayer.pdb
